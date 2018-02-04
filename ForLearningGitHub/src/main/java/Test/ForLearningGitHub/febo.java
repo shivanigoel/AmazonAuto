@@ -10,7 +10,7 @@ public class febo {
 		x=y+y;
 		System.out.println(x +"   "+y);
 		
-		
+		System.out.println("**********q*******");
 		
 		int xo=0,x1=1,x3;
 		for (int i=1;i<21;i++){
