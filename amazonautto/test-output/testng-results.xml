@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34532" started-at="2018-01-21T19:06:13Z" finished-at="2018-01-21T19:06:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34532" started-at="2018-01-21T19:06:13Z" finished-at="2018-01-21T19:06:48Z">
+      <class name="testscript.openamazon">
+        <test-method status="PASS" signature="prop()[pri:0, instance:testscript.openamazon@6b9651f3]" name="prop" is-config="true" duration-ms="32" started-at="2018-01-22T00:36:14Z" finished-at="2018-01-22T00:36:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prop -->
+        <test-method status="PASS" signature="openurl()[pri:0, instance:testscript.openamazon@6b9651f3]" name="openurl" duration-ms="34439" started-at="2018-01-22T00:36:14Z" finished-at="2018-01-22T00:36:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+      </class> <!-- testscript.openamazon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
