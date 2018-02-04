@@ -11,7 +11,7 @@ public class febo {
 		System.out.println(x +"   "+y);
 		
 		System.out.println("**********q*******");
-		
+		System.out.println("***********");
 		int xo=0,x1=1,x3;
 		for (int i=1;i<21;i++){
 			System.out.println(xo);
